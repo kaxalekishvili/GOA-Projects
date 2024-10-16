@@ -1,0 +1,3 @@
+Apple="🍎"
+
+print(Apple)
